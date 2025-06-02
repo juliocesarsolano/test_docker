@@ -1,0 +1,19 @@
+ Paso 1: Instala Docker Desktop para Windows
+Ve al sitio oficial:
+👉 https://www.docker.com/products/docker-desktop
+
+Descarga e instala Docker Desktop for Windows.
+
+Durante la instalación, asegúrate de activar la opción “Add Docker to PATH” si aparece.
+
+Reinicia tu PC después de la instalación (importante).
+
+
+proyecto_api/
+├── app.py                  ← API Flask
+├── model.py                ← Script que entrena y guarda modelo (modelo.pkl)
+├── modelo.pkl              ← Archivo del modelo guardado
+├── requirements.txt        ← Dependencias
+├── Dockerfile              ← Imagen para Flask API
+└── docker-compose.yml      ← Orquestación del contenedor
+

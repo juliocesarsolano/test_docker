@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data2/3.Projects/204_MLFlow_and_Flask_Integration/mlruns/613418074781759276/29d494c655b94aa09bd933dbefb18bbd/artifacts
+end_time: 1748893916117
+entry_point_name: ''
+experiment_id: '613418074781759276'
+lifecycle_stage: active
+run_id: 29d494c655b94aa09bd933dbefb18bbd
+run_name: nervous-goose-652
+run_uuid: 29d494c655b94aa09bd933dbefb18bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748893910569
+status: 3
+tags: []
+user_id: solaaj

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data2/3.Projects/204_MLFlow_and_Flask_Integration/mlruns/613418074781759276/3a16144a5a324c9a907ba8173a0eb5b2/artifacts
+end_time: 1748885799218
+entry_point_name: ''
+experiment_id: '613418074781759276'
+lifecycle_stage: active
+run_id: 3a16144a5a324c9a907ba8173a0eb5b2
+run_name: monumental-bass-651
+run_uuid: 3a16144a5a324c9a907ba8173a0eb5b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748885786794
+status: 3
+tags: []
+user_id: solaaj

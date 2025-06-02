@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748893416389
+current_stage: None
+description: null
+last_updated_timestamp: 1748893416389
+name: modelo_regresion_diabetes
+run_id: 0a11b1ddabbd4cff974f0422cf48e90b
+run_link: null
+source: file:///E:/Data2/3.Projects/204_MLFlow_and_Flask_Integration/mlruns/613418074781759276/0a11b1ddabbd4cff974f0422cf48e90b/artifacts/modelo_regresion
+status: READY
+status_message: null
+storage_location: file:///E:/Data2/3.Projects/204_MLFlow_and_Flask_Integration/mlruns/613418074781759276/0a11b1ddabbd4cff974f0422cf48e90b/artifacts/modelo_regresion
+user_id: null
+version: 3
